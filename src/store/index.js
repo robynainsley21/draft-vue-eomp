@@ -1,6 +1,6 @@
 import { createStore } from 'vuex'
 
-const dataURL = ''
+// const dataURL = 'https://robynainsley21.github.io/vue-data-eomp/'
 
 export default createStore({
   state: {
